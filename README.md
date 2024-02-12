@@ -25,3 +25,11 @@ git add .
 git commit -m "add .gitignore, cmds to readme"
 git push origin main
 ```
+
+## Datasets used
+
+https://github.com/mwaskom/seaborn-data
+I haven't gotten far enough in the project to determine exactly which if not all of these csv's will be used, first impression is to use:
+https://github.com/mwaskom/seaborn-data/blob/master/geyser.csv
+
+If more csv's are used I will update later on.
